@@ -1,0 +1,13 @@
+export 'package:productos_app/screens/check_auth_screen.dart';
+export 'package:productos_app/screens/home_screen.dart';
+export 'package:productos_app/screens/loading_screen.dart';
+export 'package:productos_app/screens/login_screen.dart';
+export 'package:productos_app/screens/product_screen.dart';
+export 'package:productos_app/screens/register_screen.dart';
+export 'package:productos_app/screens/aviso_screen.dart';
+export 'package:productos_app/screens/home_aviso.dart';
+export 'package:productos_app/screens/home_principal.dart';
+export 'package:productos_app/screens/actividad_ver.dart';
+export 'package:productos_app/screens/home_activitdad.dart';
+export 'package:productos_app/screens/p_screen.dart';
+export 'package:productos_app/screens/h_screen.dart';
